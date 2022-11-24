@@ -92,7 +92,7 @@ public class DataManager : MonoBehaviour
     {
         if (enemyKilled >= 5)
         {
-            print("Kazandýnýzz");
+            print("Kazandinizz");
         }
     }
 
